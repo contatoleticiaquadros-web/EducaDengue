@@ -1,3 +1,0 @@
-0 Baixo Risco
-1 Médio Risco
-2 Alto Risco
